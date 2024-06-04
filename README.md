@@ -1,1 +1,2 @@
-# Salesmen-sale-s-Analysis
+# Salesmen-sale's-Analysis
+The sales analysis dashboard provides a snapshot of sales performance for individual salespeople and teams. In the top left, you see the total sales each salesperson has made, like Gigi Bohling with $75,000. The bottom left shows what products each salesperson has sold the most, such as Gigi selling 46,000 Bake products. Moving to the top right, it displays sales by region, like Gigi's $13,360 in Australia. The bottom right gives additional insights, like the number of sales in each region, how much sales vary across regions, the total sales of each product, and how much sales vary for each product. It's a handy tool for understanding who's selling what and where, and how sales vary across different factors.
